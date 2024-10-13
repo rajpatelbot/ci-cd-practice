@@ -1,6 +1,4 @@
-# This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
-
-name: Lint
+name: Linting
 
 on: [push, pull_request]
 
